@@ -1,0 +1,27 @@
+{
+  "name": "insomnia-plugin-theme-palenight",
+  "version": "1.0.0",
+  "description": "Material Palenight theme for insomnia rest client",
+  "main": "index.js",
+  "insomnia": {
+    "name": "Material Palenight",
+    "description": "Material Palenight"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabb1995/insomnia-plugin-theme-palenight.git"
+  },
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "theme",
+    "material",
+    "palenight"
+  ],
+  "author": "gabb1995",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabb1995/insomnia-plugin-theme-palenight/issues"
+  },
+  "homepage": "https://github.com/Gabb1995/insomnia-plugin-theme-palenight#readme"
+}
