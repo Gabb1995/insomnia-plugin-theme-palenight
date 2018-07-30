@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-theme-palenight",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Material Palenight theme for insomnia rest client",
   "main": "index.js",
   "insomnia": {
