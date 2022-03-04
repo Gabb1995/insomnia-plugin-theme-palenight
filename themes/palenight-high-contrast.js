@@ -59,9 +59,6 @@ module.exports = {
         }
       },
       dialog: {
-        background: {
-          warning: '#757CA199',
-        },
         highlight: {
           xs: '#292D3E'
         }
