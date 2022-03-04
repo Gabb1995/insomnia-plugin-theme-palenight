@@ -53,6 +53,24 @@ module.exports = {
           default: '#80CBC4'
         }
       },
+      pane: {
+        highlight: {
+          xs: '#292D3E'
+        }
+      },
+      dialog: {
+        background: {
+          warning: '#757CA199',
+        },
+        highlight: {
+          xs: '#292D3E'
+        }
+      },
+      dialogHeader: {
+        background: {
+          default: '#1B1E2B'
+        }
+      },
       transparentOverlay: {
         background: {
           default: '#292D3ECC'
